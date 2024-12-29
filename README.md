@@ -5,4 +5,4 @@ Open implementation and code from the publication "Individual Adaptive Motor Ima
 
 # Example of use:
 
-The code will be available soon...
+
